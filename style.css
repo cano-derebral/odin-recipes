@@ -1,0 +1,17 @@
+body {
+    background-color: #27120d;
+    color: #f4eeed;
+    font-family: sans-serif;
+    margin: 5%;
+    margin-top: 2%;
+}
+
+img {
+    border-radius: 10px;
+    border: #833d2c 4px;
+    border-style: solid;
+}
+
+a {
+    color: #d8ada2;
+}
